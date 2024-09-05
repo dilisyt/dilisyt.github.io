@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://dilisyt.github.io/sitemap/sitemap.txt
